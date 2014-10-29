@@ -18,7 +18,7 @@
     "author": "FriendCode",
     "license": "Apache v2",
     "dependencies": {
-        "pty.js": "0.2.4",
+        "pty.js": "vangie/pty.js",
         "underscore": "1.4.4",
         "q": "0.9.6"
     },
